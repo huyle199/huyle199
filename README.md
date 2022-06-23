@@ -24,8 +24,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zaireali649&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaireali649&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=huyle199&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyle199&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=zaireali649%2Fzaireali649&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=zaireali649%2Fzaireali649)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhuyle199&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhuyle199)
