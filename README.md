@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Huy%20Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huy-le-110/)](https://www.linkedin.com/in/huy-le-110/)
 [![Medium Badge](https://img.shields.io/badge/Huy%20Le-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@huyquangle0503)](https://medium.com/@huyquangle0503)
-[![Gmail Badge](https://img.shields.io/badge/-zaireali649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huyquangle0503@gmail.com)](mailto:huyquangle0503@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-huyquangle0503@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huyquangle0503@gmail.com)](mailto:huyquangle0503@gmail.com)
 
 ## ⚡ Technologies
 
